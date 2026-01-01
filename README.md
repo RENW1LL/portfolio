@@ -1,6 +1,6 @@
 # portfolio Olá, Bem Vindo ao meu projeto de Portfólio
 
-![Imagem portfolio](assets/imagem_projeto.png)
+![Imagem portfolio](portfolio/assets/imagem_projeto.png)
 
 ## Ferramentas utilizadas:
 * HTML
