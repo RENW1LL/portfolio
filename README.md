@@ -1,4 +1,4 @@
-# portfolio Olá, Bem Vindo ao meu projeto de Portfólio
+# Olá, Bem Vindo ao meu projeto de Portfólio
 
 ![Imagem portfolio](portfolio/assets/imagem_projeto.png)
 
